@@ -1,12 +1,11 @@
-👋 Hi, I’m @grayspec
+## Hello World! 👋
 
-👀 I’m interested in spatial data analytics, cloud infrastructure, and microservices architectures. With extensive experience in building and deploying hybrid cloud solutions using Kubernetes, I've worked on numerous projects involving data-driven analysis platforms and AI integration.
-
-🌱 I’m currently learning advanced techniques in Apache Spark, Kubernetes, and data visualization tools like Apache Superset and OpenSearch.
-
-💞️ I’m looking to collaborate on innovative projects focused on spatial data projects, cloud-native technologies, and scalable data pipelines.
-
-<!---
-grayspec/grayspec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* ☁️ Personal blog - https://blog.grayspec.dev
+* 💞️ High interest - [Kubernetes](https://github.com/kubernetes/kubernetes)
+* 🥰 Work-related interests
+  * 🚀 CI/CD - [spinnaker](https://github.com/spinnaker), [concourse](https://github.com/concourse), [containerd](https://github.com/containerd), [jenkinsci](https://github.com/jenkinsci), [jenkins-x](https://github.com/jenkins-x)
+  * 🌏 GeoSpatial - [gdal](https://github.com/OSGeo/gdal), [geos](https://github.com/libgeos/geos), [geoos](https://github.com/spatial-go), [jts](https://github.com/locationtech/jts)
+  * ✨ BigData - [Apache Spark](https://github.com/apache/spark), [Apache Flink](https://github.com/apache/flink), [Apache Cassandra](https://github.com/apache/cassandra)
+ 
+<a href="https://www.buymeacoffee.com/grayspec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  
