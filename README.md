@@ -1,6 +1,5 @@
 ## Hello World! 👋
 
-* ☁️ Personal blog - https://blog.grayspec.dev
 * 💞️ High interest - [Kubernetes](https://github.com/kubernetes/kubernetes)
 * 🥰 Work-related interests
   * 🚀 CI/CD - [spinnaker](https://github.com/spinnaker), [concourse](https://github.com/concourse), [containerd](https://github.com/containerd), [jenkinsci](https://github.com/jenkinsci), [jenkins-x](https://github.com/jenkins-x)
